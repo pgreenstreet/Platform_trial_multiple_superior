@@ -1,4 +1,4 @@
-# Platform_trial_multiple_superior_fixed_allocation_ratio
+# Platform_trial_multiple_superior_fixed_r(k)
 
 Here is the code used to produce Table 1 and 2 in the paper, A preplanned multi-stage platform trial for discovering multiple superior treatments with control of FWER and power. 
 Here the conjunctivepowerdesign.R is used to create the conjunctive design with the second treatment added halfway through the trial. Similar for Pairwisepowerdesign.R which does this for the pairwise design. 
